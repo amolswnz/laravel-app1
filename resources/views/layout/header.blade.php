@@ -6,11 +6,7 @@
     <title>MyBlog using Laravel</title>
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
-    <style type="text/css">
-    body {
-        font-family: 'Slabo 27px';
-    }
-    </style>
+    <style type="text/css"> body {font-family: 'Slabo 27px'; } </style>
 <body>
 @include('partials.nav')
 <div class="container-fluid">
