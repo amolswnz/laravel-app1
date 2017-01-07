@@ -5,5 +5,5 @@
 @endsection
 
 @section('main-content')
-    {{ $post['content'] }}
+    {!! $post['content'] !!}
 @endsection
