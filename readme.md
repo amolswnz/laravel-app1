@@ -1,6 +1,6 @@
 ##Laravel Learning
 
-**My Blog** is a Laravel framework based PHP/MySQL application which is used to *Create - Read - Update - Delete* blog post.
+**My Blog** is a Laravel framework based PHP application which is used to *Create - Read - Update - Delete* blog post.
 No database is used in this project. It just works on Session.
 
 **Concepts covered in this git repository**
